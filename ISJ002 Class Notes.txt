@@ -1,0 +1,458 @@
+Date: 10 May 2023
+Time: 11:30 AM
+Day 1
+Course: Java Backend Engineer [Web Application Developer]
+
+1. Course details 
+	 - Prequisite : 
+						- English [Intermediate], basics computer, 
+						- No programming background.
+						- myth: diffcult
+						[What, why, when, how, which]
+						
+	- Duration : 
+					Core Java : 100+ hours
+					Advance Java: 60+ hours		
+					Mini Project : 30+ hours
+					Development tools: 30+ hours
+					Frameworks : 100+
+	
+	Total hours of technical training = 300+ hours
+
+		- Quizes 20+ hours
+		- Mocks 20+ hours
+		- Presentation 20+ hours
+		- Resume building 5+ hours
+		- Aptitude Sessions  40+ hours
+		- Interview preparation + 40+ hours
+		- Groomming sessions : 10+ hours
+	=  120+ hours
+
+~ 400+ hours 
+
+Course  4 to 6 months
+				
+2. Content [300 hours]
+	1. Core Java [Java 8 version] - 2014 
+			1. Introduction to Computer, Software,Program, Programming Languages
+			2. JDK, JRE, JVM
+			3. Setup of Java 
+			4. Hello world Program
+			5. Variable and data type
+			6. Identifier
+			7. Operators [Arithmetic, Comparator, Logical, Binary, ....11]
+			8. Control Statements
+					1. conditional statements [if-else, switch, ]
+					2. looping statements [for, while, do-while, enhanced]
+					3. transfer statements[break, continue, return]
+			9. Class and Object
+			10. JVM Architecture
+			11. Class Components
+					1. variables [local, instance, static]
+					2. methods [instance, static]
+					3. constructor[default, zero param, param con]
+					4. blocks [instance block, static block]
+					5. Nested classes [static, no-static, local inner class, anonymous class]
+					6. this keyword
+					7. access specifier
+			12. OOPS 	
+					1. Encapsulation [what, why, how, when,advantages, disad..]	
+					2. Inheritance [what, why, types, how, when,advantages, disad..]	
+					3. Polymorphism [what, why, how, when,advantages, disad..]	
+							- method overloading, method overriding
+					4. Abstraction [what, why, how, when,advantages, disad..]		
+							- abstract class
+							- interface
+			13. Java 8 features
+					1. Functional interface
+					2. Default method
+					3. static method
+					4. lambda expression
+					5. method reference
+			14. Object class [11 methods]
+			15. Array [product, services, 100+ programs]
+			16. String Handling
+			17. Exception Handling [try, catch, finally, throwm throws]
+			18. Multithreading
+			19. Collection framework. 
+			20. File Handling
+			21. enum
+			22. Annotations
+			23. Misc.
+	
+// Mini projects
+		1. email validator
+		2. password validator
+		3. calcualtor [EMI, Interest, BMI, ]
+		4. Quiz App
+		5. OTP generator
+		6. Password Generator
+		7. Lucky Draw [random]
+
+
+	2. Advance Java
+			1. JDBC
+			2. Servlet
+			3. JSP
+			4. MVC
+			5. Mini projects
+
+	3. Development Tools
+			1. GIT
+			2. Maven/ Gradle
+			3. JUnit
+			4. Lombook
+			5. JIRA
+			6. Swagger
+			7. IDE [Intelli J] Shortcuts
+
+	4. Frameworks
+			1. Hibernate
+			2. Spring 
+					1. Spring Core
+					2. Spring MVC
+					3. Spring AOP
+					4. Spring JDBC
+					5. Spring Data JPA
+					6. Spring REST
+					7. Spring Boot
+					8. Spring Actuators
+	5. Capstone Project
+			- Project which mimicks real company project
+
+
+************************************************************************************************
+Date: 11th May 2023
+Day 2
+Topic: Introduction to Computer, Programs, Software, Programming Language, Java
+
+
+Computer : Compute [calculations]
+	- it is an electronic machine which is used to do the calculations
+	- input --> process --> output
+	- ON : 1
+	- OFF: 0
+
+	Binary number system [two digits 0,1]
+	Octal Number System [eight digits 0,1,2,3,4,5,6,7]
+	Decimal NUmber System [10 digits : 0...9]
+	Hexadecimal Number System [16 digits 0,9, a,f]
+
+	- 1939 Charles B.
+	- Binay language OR [Low level language] OR Machine level language
+	- Initially instructions were given in binary language.
+
+# Program : set of instructions given to the computer to get some task done
+# Software : group of multiple programs.
+	
+# Programming: writing instructions to the computer to get the task done.
+
+# Programming Language: 
+	- It is a language using which programmer can give instructions to the computer
+	- so that we get the task done.
+
+# Software Development:
+		
+
+
+# Problems associated with the binary language:
+	1.To write code in binary language, machine hardware understanding was must.
+	2. difficult to write. 
+	3. errorprone code
+	4. maintaince is difficult.
+	5. Time taking process.
+	6. Less readability
+
+
+
+# Assembly language OR Middle level Programming language
+- Mnemonics i.e. english like words
+		ADD number1 number2
+
+- Again difficult to write programs
+
+1. write code in assmbly language
+2. convert assembly language code into binary with the help of Assembler 
+3. Execute binary code.
+
+
+
+# High level programming languages
+	C, C++, C#, Java.....
+
+
+
+
+# What is Java?
+	- It is a high level programming language using which we can develop programs and softwares
+		which will help us get some taks done from the computer
+	
+	- Java is developed by Sun MicroSystems later acquired by Oracle.
+	- At SunMicroSystesm, team [Green], James Gosling 
+	- developement of Programming language 
+			- name of the programming language : Oak [Already registered by someone else]
+			- Oak to Java[Type of coffee Indonessia]
+	
+	# Agenda:
+			1. Less memory Consumption
+			2. Less Power consumption
+			3. Less time consumption
+			4. Less no. of instructions
+			5. WORA - Software should run on all of the platforms.
+			6. Target: Electronic Consumer Devices.
+			7. Simple [Complex concpets from C , C++ such  Pointers, virtual function, operator overloading were removed ]
+
+
+
+
+
+
+# Computer : 
+# Program : set of instructions given to computer to perform some task.
+# Software : set of programs 
+# Programming: coding : writing instructions
+# Programming language : language in which we write set of instructions.
+						e.g. C, C++, C#, Python, Java...
+
+# programmer : person who writes instructions
+
+# Binary Language OR Machine Language OR Low Level Programming Language
+What: 
+	1. It is a programming languages
+	2. instructions were written in terms of 1,0
+
+Why:
+	1. to develop softwares
+
+Advantages:
+	1. No transaltor is required as instructions are directly understood machine.
+	2. It needs less execution time. [Faster]
+Disadvanatges
+	1. difficult to write
+	2. less readability
+	3. less scalable 
+ 	4. system hardware archi details
+	5. For a simple task as well we have to write lot of code.
+
+
+# Assembly Language OR Middle Level Programming Language :
+
+What: 
+	1. It is a programming languages
+	2. instructions were written English like words called as mnemonics
+	e.g  ADD number1 number2
+
+Why:
+	1. to develop softwares
+	2. To overcome problems of Binary language
+
+Advantages:
+	1. writing code is easy compared to binary.
+	2. faster software development
+
+Disadvanatges
+	1. Transloter or Assmbler is required to translate assembly code into binary.
+	2. Code execution is slower as compared to binary
+	3. system hardware archi details
+ 	.......
+
+
+UNIX OS : 
+	 - 1966  was written in Assembly.
+	- It was again rewritten using C language by Denis Ritchee[C programming invetor]	
+
+
+1970+
+- There are lot of programming languages. C, C++, Java, C#....
+
+1971 C
+1978 C++
+
+
+
+
+1990 + Java was introduced
+
+# Java :
+What:
+	- it is a high level programming langauge
+	
+Why:
+	- We can develop softwares [Application Softwares]
+			- Desktop  [ AWT/SWING , JavaFx]
+			- web application [Servlet, JSP, Spring MVC, JSF, ]
+			- enterprise or distributed [ SOAP/REST Web services]
+		
+	[Website, Web Application, Web Services]
+
+Who : 
+	- Sun Microsystems ---> Team [Green] -->  James Gosling --> 1990
+	- Development of Programming language ---> Oak --> Java [Coffee name]
+		- work agenda/ goals 
+			  ******* [WriteOnceRunAnywhere] ******** Platform Independent
+			1. Less memory consumption
+			2. Less power consumption
+			3. Less no. of instructions
+			4. Less execution time
+			5. Simple programming language
+
+Q. Are C, C++ platform independent?
+Ans. NO. C ,C++ are platform dependent.
+
+# What is platform indepedency?
+- Code which is compiled on one machine[platoform] can be executed on any other machine[platform].
+
+
+**** To develop internet based application we need to have platform indepdent programming language.
+
+1. Computer - 
+2. Program -
+3. Software -
+4. Programming -
+5. Programming Language
+6. Programmer
+7. Software Developer
+8. Binary Language [0,1] OR Low Level programming OR Machine Langauge
+9. Assembly Language  [English Words]
+10. High Level Programming Languages 
+11. Java[ what, why, who]
+	Mission  : Develop a programming language
+			1. WORA [Write Once Run Anywhere]
+
+
+Q. How Java is platform indepdent? 
+		OR
+	How Java Works?
+Ans. 
+	1. Yes , Java is platform independent programming langauge.
+	2. The code which is written in java once it is complied with Java Compiler,
+		it generates Byte Code[not binary] i.e. intermediate code.
+			.class File
+
+	3. Byte code is input to the JRE and JRE generates the Binary code which is specific to that platform or OS.
+
+
+		Steps:
+				1. Write code in Java
+				2. Compile it with Java complier
+				3. Byte code is generated and given to JRE
+				4. JRE generates the Binary code which is understood by underlying machine.
+
+
+
+# Structure of Java program or understanding Hello World program:
+
+1. public : 
+- It is a keyword or reserved word or access specifier.
+- public means this can be accessed throughout the application.
+	
+2. class :
+- It is a keyword or reserved. 
+- class word came from classification or grouping or categorization
+- It is used to create a classification [class]
+- It is a container which consists of similar or logically related data and methods[task]
+
+3. HelloWorld :
+- It is a name given to a class
+- It denotes the group name
+
+4. static :
+- It is a keyword or reserved word
+- It means static i.e. cannot be changed
+- static method means this is common for all of the objects of the class.
+
+5. void :
+- It is a reserved word or keyword. It specifies does not return anything
+
+6. main : 
+- it is the name of method
+- Its job is to execute all other methods
+- main method is the entry point for java application
+- Its compulsory to have atleast one main method for a given java application
+- It is called by JRE.
+- It will be the first method or task that will executed automatically.
+
+
+7. String[] args:
+- It is an input the main method
+- It is an array of Strings
+- args is a name given to array
+
+8. {} : task boundary
+
+9. System :
+ - it is a predefined class
+
+10. out :
+- it is a data or a reference variable present inside the System class
+- It is a static variable
+- It is a data type of PrintStream class
+
+11. println:
+- it is a predefined method present inside the PrintStream class
+- it is used output the content on screen.
+
+
+
+
+
+
+# variable : 
+What:	It is a name given to a memory location so we can easily the access
+why: 
+how:
+		data_type variableName = value;
+		e.g. 
+			int age = 50;
+
+
+# Data -type :
+It specifies :
+	1. type of data that we store in the memory
+	2. Memory requirement to store the data
+	3. Range of allowed values that can be stored in memory
+
+
+** Java is strongly or strictly typed programming language.
+	As we have to specify the type of data in advance before store the data.
+
+# What are the different types of datatypes are available in Java?
+- We have 8 types
+1. byte - 1 byte
+2. short - 2 bytes
+3. int - 4 bytes
+4. long - 8 bytes
+5. float - 4 bytes
+6. double - 8 bytes
+7. char - 2 bytes
+8. boolean - 1 byte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
