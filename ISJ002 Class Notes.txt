@@ -434,6 +434,59 @@ It specifies :
 
 
 
+# Identifier 
+- It is a name given to class, method, variable, package,..
+
+* Rules to follow to give a name :
+1. Identifier should be have character set : A-Z, a-z, 0-9, $, _[underscore]
+	- if we use any other character we get CTE
+2. Identifier should not start with digit otherwise we get CTE.
+3. Keywords cannot be used as identifer. Otherwise we get CTE.
+4. Java is case sensitive programming language.
+5. Space is not allowed in the identifier.
+
+* Suggestions / Good practices to give names:
+1. We should not use predefined classes name as an identifier. We dont get CTE if we use it. It will reduce the readability. 
+2. Upper camel case : classes, interfaces
+3. Lower camel case for : variables, methods, packages
+4. Uppercase for Constants : e.g. ORACLE_DATABASE_USERNAME 
+
+
+
+# + operator: 
+- It is the only operator which is overloaded in java.
+- It is used to perform mathematical addition as well as String concatenation.
+* Mathematical Addition : when both the operands are of type number
+* String concatenation: when on of the operands is of string type. ""
+- Expression evaluation will be done from left to right.
+
+
+# Arithemetic Operators: +, -, *, /, %[Modulo/Remainder]
+
+
+# Assignment Operator : =
+- It is used to assign the RHS value to the LHS variable
+	e.g. 
+			int d = 100;
+			int a = 10 * 10;
+			int b = a;
+			int c = add(10,20);
+- RHS can be
+		- Direct value
+		- expression
+		- variable
+		- function call
+
+- LHS must be a variable.
+
+
+
+
+
+
+
+
+
 
 
 
