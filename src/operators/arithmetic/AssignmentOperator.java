@@ -1,3 +1,5 @@
+package operators.arithmetic;
+
 public class AssignmentOperator {
 	
 	public static void main(String[] args){
