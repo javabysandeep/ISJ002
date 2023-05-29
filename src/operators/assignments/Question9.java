@@ -7,10 +7,10 @@ public class Question9 {
         int subject1Marks = 78;
         int subject2Marks = 45;
         int subject3Marks = 62;
-        float totalMarks = subject1Marks + subject2Marks + subject3Marks;
+        int totalMarks = subject1Marks + subject2Marks + subject3Marks;
         System.out.println("Total marks " + totalMarks);
 
-        float percentage = (totalMarks / 300) * 100;
+        float percentage = ((float)totalMarks / 300) * 100;
 
         System.out.println("Percentage Marks " + percentage);
     }
