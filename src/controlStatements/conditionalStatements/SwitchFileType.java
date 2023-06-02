@@ -1,4 +1,4 @@
-package operators.conditional.controlStatements.conditionalStatements;
+package controlStatements.conditionalStatements;
 
 import java.util.Scanner;
 

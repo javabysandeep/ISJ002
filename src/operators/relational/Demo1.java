@@ -14,8 +14,7 @@ public class Demo1 {
         System.out.println(5 != 10);//true
         System.out.println(10 == 10);//true
         System.out.println(10 != 10);//false
-
-
+        System.out.println(10+5);//15
 
     }
 }

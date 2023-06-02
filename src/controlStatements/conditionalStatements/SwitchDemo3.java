@@ -1,4 +1,4 @@
-package operators.conditional.controlStatements.conditionalStatements;
+package controlStatements.conditionalStatements;
 
 public class SwitchDemo3 {
     public static void main(String[] args) {

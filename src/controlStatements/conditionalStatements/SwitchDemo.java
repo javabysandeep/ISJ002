@@ -1,22 +1,23 @@
-package operators.conditional.controlStatements.conditionalStatements;
+package controlStatements.conditionalStatements;
 
-public class SwitchDem02 {
+public class SwitchDemo {
     public static void main(String[] args) {
-        char ch = 'J';
-        switch (ch) {
-            case 'J':
+        int month = 1;
+        int a = 10;
+        switch (month) {
+            case 1:
                 System.out.println("Jan");
                 break;
-            case 'F':
+            case 2:
                 System.out.println("Feb");
                 break;
-            case 'M':
+            case 3:
                 System.out.println("March");
                 break;
-            case 'A':
+            case 4:
                 System.out.println("April");
                 break;
-            case 'm':
+            case 5:
                 System.out.println("May");
                 break;
             default:

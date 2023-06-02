@@ -1,4 +1,4 @@
-package operators.conditional.controlStatements.conditionalStatements;
+package controlStatements.conditionalStatements;
 
 public class Demo4EvenOdd {
     public static void main(String[] args) {
