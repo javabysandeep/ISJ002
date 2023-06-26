@@ -1,6 +1,11 @@
 package oops.inheritance;
 
-public class C /*extends A,B*/{
+public class C extends A/*extends A,B*/ {
 
-    ArithmeticException
+    public static void main(String[] args) {
+        C c = new C();
+        System.out.println(c.a);
+        c.display();
+    }
+
 }
