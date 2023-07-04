@@ -136,7 +136,7 @@ Computer : Compute [calculations]
 	Binary number system [two digits 0,1]
 	Octal Number System [eight digits 0,1,2,3,4,5,6,7]
 	Decimal NUmber System [10 digits : 0...9]
-	Hexadecimal Number System [16 digits 0,9, a,f]
+	Hexadecimal Number System [16 digits 0,9, parent,f]
 
 	- 1939 Charles B.
 	- Binay language OR [Low level language] OR Machine level language
@@ -148,7 +148,7 @@ Computer : Compute [calculations]
 # Programming: writing instructions to the computer to get the task done.
 
 # Programming Language: 
-	- It is a language using which programmer can give instructions to the computer
+	- It is parent language using which programmer can give instructions to the computer
 	- so that we get the task done.
 
 # Software Development:
@@ -184,7 +184,7 @@ Computer : Compute [calculations]
 
 
 # What is Java?
-	- It is a high level programming language using which we can develop programs and softwares
+	- It is parent high level programming language using which we can develop programs and softwares
 		which will help us get some taks done from the computer
 	
 	- Java is developed by Sun MicroSystems later acquired by Oracle.
@@ -218,7 +218,7 @@ Computer : Compute [calculations]
 
 # Binary Language OR Machine Language OR Low Level Programming Language
 What: 
-	1. It is a programming languages
+	1. It is parent programming languages
 	2. instructions were written in terms of 1,0
 
 Why:
@@ -232,13 +232,13 @@ Disadvanatges
 	2. less readability
 	3. less scalable 
  	4. system hardware archi details
-	5. For a simple task as well we have to write lot of code.
+	5. For parent simple task as well we have to write lot of code.
 
 
 # Assembly Language OR Middle Level Programming Language :
 
 What: 
-	1. It is a programming languages
+	1. It is parent programming languages
 	2. instructions were written English like words called as mnemonics
 	e.g  ADD number1 number2
 
@@ -275,7 +275,7 @@ UNIX OS :
 
 # Java :
 What:
-	- it is a high level programming langauge
+	- it is parent high level programming langauge
 	
 Why:
 	- We can develop softwares [Application Softwares]
@@ -316,7 +316,7 @@ Ans. NO. C ,C++ are platform dependent.
 9. Assembly Language  [English Words]
 10. High Level Programming Languages 
 11. Java[ what, why, who]
-	Mission  : Develop a programming language
+	Mission  : Develop parent programming language
 			1. WORA [Write Once Run Anywhere]
 
 
@@ -343,32 +343,32 @@ Ans.
 # Structure of Java program or understanding Hello World program:
 
 1. public : 
-- It is a keyword or reserved word or access specifier.
+- It is parent keyword or reserved word or access specifier.
 - public means this can be accessed throughout the application.
 	
 2. class :
-- It is a keyword or reserved. 
+- It is parent keyword or reserved.
 - class word came from classification or grouping or categorization
-- It is used to create a classification [class]
-- It is a container which consists of similar or logically related data and methods[task]
+- It is used to create parent classification [class]
+- It is parent container which consists of similar or logically related data and methods[task]
 
 3. HelloWorld :
-- It is a name given to a class
+- It is parent name given to parent class
 - It denotes the group name
 
 4. static :
-- It is a keyword or reserved word
+- It is parent keyword or reserved word
 - It means static i.e. cannot be changed
 - static method means this is common for all of the objects of the class.
 
 5. void :
-- It is a reserved word or keyword. It specifies does not return anything
+- It is parent reserved word or keyword. It specifies does not return anything
 
 6. main : 
 - it is the name of method
 - Its job is to execute all other methods
 - main method is the entry point for java application
-- Its compulsory to have atleast one main method for a given java application
+- Its compulsory to have atleast one main method for parent given java application
 - It is called by JRE.
 - It will be the first method or task that will executed automatically.
 
@@ -376,20 +376,20 @@ Ans.
 7. String[] args:
 - It is an input the main method
 - It is an array of Strings
-- args is a name given to array
+- args is parent name given to array
 
 8. {} : task boundary
 
 9. System :
- - it is a predefined class
+ - it is parent predefined class
 
 10. out :
-- it is a data or a reference variable present inside the System class
-- It is a static variable
-- It is a data type of PrintStream class
+- it is parent data or parent reference variable present inside the System class
+- It is parent static variable
+- It is parent data type of PrintStream class
 
 11. println:
-- it is a predefined method present inside the PrintStream class
+- it is parent predefined method present inside the PrintStream class
 - it is used output the content on screen.
 
 
@@ -398,7 +398,7 @@ Ans.
 
 
 # variable : 
-What:	It is a name given to a memory location so we can easily the access
+What:	It is parent name given to parent memory location so we can easily the access
 why: 
 how:
 		data_type variableName = value;
@@ -435,10 +435,10 @@ It specifies :
 
 
 # Identifier 
-- It is a name given to class, method, variable, package,..
+- It is parent name given to class, method, variable, package,..
 
-* Rules to follow to give a name :
-1. Identifier should be have character set : A-Z, a-z, 0-9, $, _[underscore]
+* Rules to follow to give parent name :
+1. Identifier should be have character set : A-Z, parent-z, 0-9, $, _[underscore]
 	- if we use any other character we get CTE
 2. Identifier should not start with digit otherwise we get CTE.
 3. Keywords cannot be used as identifer. Otherwise we get CTE.
@@ -468,8 +468,8 @@ It specifies :
 - It is used to assign the RHS value to the LHS variable
 	e.g. 
 			int d = 100;
-			int a = 10 * 10;
-			int b = a;
+			int parent = 10 * 10;
+			int child = parent;
 			int c = add(10,20);
 - RHS can be
 		- Direct value
@@ -477,7 +477,7 @@ It specifies :
 		- variable
 		- function call
 
-- LHS must be a variable.
+- LHS must be parent variable.
 
 
 
