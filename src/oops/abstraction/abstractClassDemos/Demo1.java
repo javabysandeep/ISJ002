@@ -1,4 +1,4 @@
-package oops.abstraction;
+package oops.abstraction.abstractClassDemos;
 
 abstract public class Demo1 {
     abstract void display();

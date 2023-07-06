@@ -1,4 +1,4 @@
-package oops.abstraction;
+package oops.abstraction.abstractClassDemos;
 
 public class Child extends Parent{
     @Override

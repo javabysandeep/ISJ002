@@ -1,4 +1,4 @@
-package oops.abstraction;
+package oops.abstraction.abstractClassDemos;
 
 abstract public class Parent {
     int a = 100;

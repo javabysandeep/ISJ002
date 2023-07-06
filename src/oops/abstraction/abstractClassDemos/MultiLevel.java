@@ -1,4 +1,4 @@
-package oops.abstraction;
+package oops.abstraction.abstractClassDemos;
 
 public class MultiLevel {
     public static void main(String[] args) {
