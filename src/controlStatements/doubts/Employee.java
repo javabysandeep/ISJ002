@@ -1,4 +1,4 @@
-package doubts;
+package controlStatements.doubts;
 
 public class Employee {
     int id= 100;

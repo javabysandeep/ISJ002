@@ -1,4 +1,4 @@
-package doubts;
+package controlStatements.doubts;
 
 public class Demo7Pattern {
     public static void main(String[] args) {
