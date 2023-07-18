@@ -1,6 +1,6 @@
 package array;
 
-public class Demo12 {
+public class Demo12WhileLeftRight {
     public static void main(String[] args) {
         int left = 0;
         int right = 5;
@@ -9,5 +9,9 @@ public class Demo12 {
             left++;
             right--;
         }
+        //0 5
+        //1 4
+        //2 3
+
     }
 }
