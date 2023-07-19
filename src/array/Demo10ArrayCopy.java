@@ -3,6 +3,7 @@ package array;
 public class Demo10ArrayCopy {
     public static void main(String[] args) {
         int[] oldArray = {10, 20, 30, 40, 56};
+        //int[] newArray1 = oldArray;
         int[] newArray = new int[oldArray.length];
 
         for (int index = 0; index < oldArray.length; index++) {
