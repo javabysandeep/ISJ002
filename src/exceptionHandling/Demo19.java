@@ -1,7 +1,5 @@
 package exceptionHandling;
 
-import java.io.FileNotFoundException;
-
 public class Demo19 {
     public static void main(String[] args) {
         try {
