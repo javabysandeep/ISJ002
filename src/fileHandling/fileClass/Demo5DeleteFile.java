@@ -1,12 +1,12 @@
-package fileHandling;
+package fileHandling.fileClass;
 
 import java.io.File;
 import java.io.IOException;
 
-public class Demo10FilePermission {
+public class Demo5DeleteFile {
     public static void main(String[] args) throws IOException {
+        //Delete a new file
         File file = new File("abc.txt");
-        System.out.println("File permission "+file.canWrite());
-
+        System.out.println("File deleted "+file.delete());
     }
 }

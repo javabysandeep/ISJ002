@@ -1,1 +1,14 @@
-this is the earlier of filessss
+To read and write in terms of bytes we have multiple classes:
+- FileInputStream : Using this we can read from a file in terms of bytes
+- FileOutputStream : Using this we can write to a file in terms of bytes
+- FileReader : Using this we can read from a file in terms of characters
+- FileWriter : Using this we can write to a file in terms of characters
+
+- BufferedInputStream : Using this we can read from a buffer in terms of bytes
+- BufferedOutputStream : Using this we can write to a buffer in terms of bytes
+- BufferedReader : Using this we can read from a buffer in terms of characters
+- BufferedWriter : Using this we can write to a buffer in terms of characters
+
+
+- ObjectInputStream : Using this class we can read an object in terms of bytes
+- ObjectOutputStream : Using this class we can write an object in terms of bytes

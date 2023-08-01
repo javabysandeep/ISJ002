@@ -1,14 +1,12 @@
-package fileHandling;
+package fileHandling.fileClass;
 
 import java.io.File;
-import java.io.FilenameFilter;
 import java.io.IOException;
 
-public class Demo12FilterListFiles {
+public class Demo11ListFiles {
     public static void main(String[] args) throws IOException {
         File folder = new File("C:\\Work\\ISJ002\\src\\exceptionHandling");
-        FilenameFilter filenameFilter =  (dir, fileName)->fileName.startsWith("Demo1");
-        String[] fileNameList = folder.list(filenameFilter);
+        String[] fileNameList = folder.list();// it will return only file name list
         for (String fileName : fileNameList) {
             System.out.println(fileName);
         }
