@@ -11,7 +11,7 @@ public class Demo2DeSerialization {
         FileInputStream fileInputStream = new FileInputStream(file);
         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
         Student student = (Student) objectInputStream.readObject();
-        System.out.println(student);
+        System.out.println(student.toString());
         objectInputStream.close();
         fileInputStream.close();
     }

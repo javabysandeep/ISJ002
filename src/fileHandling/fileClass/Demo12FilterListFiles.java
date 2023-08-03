@@ -8,7 +8,7 @@ public class Demo12FilterListFiles {
     public static void main(String[] args) throws IOException {
         File folder = new File("C:\\Work\\ISJ002\\src\\exceptionHandling");
         FilenameFilter filenameFilter =  (dir, fileName)->fileName.startsWith("Demo1");//definition
-        String[] fileNameList = folder.list(new FileNameFilterImpl());
+        String[] fileNameList = folder.list( (dir, fileName)->fileName.startsWith("Demo1"));
         for (String fileName : fileNameList) {
             System.out.println(fileName);
         }
