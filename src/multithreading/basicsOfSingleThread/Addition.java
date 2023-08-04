@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.basicsOfSingleThread;
 
 public class Addition {
     long start;

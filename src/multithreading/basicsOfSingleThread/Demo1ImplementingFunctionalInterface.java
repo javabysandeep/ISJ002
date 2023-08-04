@@ -1,4 +1,4 @@
-package multithreading;
+package multithreading.basicsOfSingleThread;
 
 public class Demo1ImplementingFunctionalInterface {
     public static void main(String[] args) {
