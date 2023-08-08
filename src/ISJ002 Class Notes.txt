@@ -375,8 +375,8 @@ Ans.
 
 7. String[] args:
 - It is an input the main method
-- It is an array of Strings
-- args is parent name given to array
+- It is an arrayListCustom of Strings
+- args is parent name given to arrayListCustom
 
 8. {} : task boundary
 
