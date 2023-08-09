@@ -1,4 +1,4 @@
-package collectionFramework;
+package collectionFramework.arrayBasic;
 
 public class Demo1 {
     public static void main(String[] args) {
