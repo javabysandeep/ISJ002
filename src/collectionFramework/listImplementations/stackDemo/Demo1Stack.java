@@ -1,10 +1,9 @@
-package collectionFramework.listImplementations;
+package collectionFramework.listImplementations.stackDemo;
 
 import java.util.List;
 import java.util.Stack;
-import java.util.Vector;
 
-public class Demo4Stack {
+public class Demo1Stack {
     public static void main(String[] args) {
         //1. we can add homo, heterogeneous data
         //2. we can add any number of elements. growable
