@@ -1,7 +1,11 @@
 package collectionFramework.arrayBasic;
 
+import java.util.LinkedList;
+
 public class Demo1 {
     public static void main(String[] args) {
+        LinkedList linkedList = new LinkedList();
+        linkedList.add(20);
         ArrayListCustom arrayListCustom = new ArrayListCustom();
         arrayListCustom.add("string handling");
         arrayListCustom.add(20);
